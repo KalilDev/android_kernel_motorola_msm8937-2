@@ -1,0 +1,7 @@
+language: c
+sudo: required
+script: 
+  - chmod a+x ./build.sh
+  - bash ./build.sh
+compiler: 
+  -gcc
