@@ -4046,10 +4046,16 @@ CONFIG_MMI_DEVICE_DTBS=y
 # CONFIG_SANDERS_DTB is not set
 # CONFIG_ADDISON_DTB is not set
 # CONFIG_ALBUS_DTB is not set
+# CONFIG_JOHNSON_DTB is not set
+# CONFIG_ALI_DTB is not set
 CONFIG_CEDRIC_DTB=y
 # CONFIG_MONTANA_DTB is not set
 # CONFIG_PERRY_DTB is not set
+# CONFIG_JAMES_DTB is not set
+# CONFIG_NORA_DTB is not set
+# CONFIG_JETER_DTB is not set
 # CONFIG_OWENS_DTB is not set
+# CONFIG_HANNAH_DTB is not set
 CONFIG_MSM_SECURE_BUFFER=y
 # CONFIG_ICNSS is not set
 # CONFIG_MSM_CORE_CTL is not set
